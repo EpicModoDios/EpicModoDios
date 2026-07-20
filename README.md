@@ -4,7 +4,7 @@
 
 ⚫ Pais - Colombia
 
-⚫ Edad - 21
+⚫ Edad - 22
 
 # Informacion Academica:
 
@@ -12,7 +12,7 @@
 
 ⚫ Carrera - Ingenieria De Sistemas.
 
-⚫ Semestre - 8
+⚫ Semestre - 9
 
 # Hobbies
 
